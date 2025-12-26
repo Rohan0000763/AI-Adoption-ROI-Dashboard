@@ -109,4 +109,9 @@ A **three-page interactive Power BI dashboard** that answers five critical busin
 
 
 ---
+## 📁 Project Structure
+   Example: ![AI Adoption & ROI](https://github.com/Rohan0000763/AI-Adoption-ROI-Dashboard/blob/main/Screenshots/Page%201.png)
+   Example: ![AI Project Performance](https://github.com/Rohan0000763/AI-Adoption-ROI-Dashboard/blob/main/Screenshots/Page%202.png)
+   Example: ![Financial Analysis](https://github.com/Rohan0000763/AI-Adoption-ROI-Dashboard/blob/main/Screenshots/Page%203.png)
+   
 
